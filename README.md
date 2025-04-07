@@ -1,4 +1,4 @@
-#Game of life
+# Game of life
 a simple game of life made in C++
 you can place cells by clicking on the dead cells and you can pause the game
 
